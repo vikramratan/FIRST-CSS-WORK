@@ -1,0 +1,165 @@
+div{
+
+}
+
+body{
+  background-color: LightGray;
+  text-align: center;
+  margin: 0;
+
+}
+.mountain{
+  width: 20%;
+  margin: 2%;
+}
+.text-1{
+  font-size: 250%;
+  margin-top: 5%;
+  font-family: 'Pacifico', cursive;
+}
+.tree-1{
+  position: absolute;
+  height: 12%;
+  top: 435px;
+  right: 320px;
+}
+.cloud-1
+{
+  width: 8%;
+  height: 12%;
+  position: absolute;
+top: 225px;
+left: 390px;
+}
+.cloud-2
+{
+  width: 8%;
+  height: 12%;
+  position: absolute;
+top: 275px;
+right: 390px;
+}
+.shop-1{
+  width: 8%;
+  height: 12%;
+  position: absolute;
+    top: 440px;
+    right: 420px;
+}
+.road{
+border-width: 20px;
+border-bottom: none;
+width: 40%;
+border-color: black;
+}
+.car{
+  width: 5%;
+  margin: 0;
+
+}
+.profile-pic{
+  width: 10%;
+ margin: 100px 0 0 0;
+}
+.b-1{
+  border: dashed 8px black;
+  border-bottom: none;
+  width: 40%;
+}
+h2{
+  margin: 0;
+font-family: 'Ubuntu', sans-serif;
+}
+h1{
+  font-family: 'Ubuntu', sans-serif;
+}
+.love{
+  width: 20%;
+margin: 4px auto;
+
+}
+.b-2{
+  border: dotted 8px black;
+  border-bottom: none;
+  width: 7%;
+ margin: 30px auto 30px auto;
+
+}
+.E-pic1{
+  width: 15%;
+  float: left;
+  margin: auto 60px auto 0;
+}
+
+.E-pic2{
+  width: 15%;
+  float: left;
+    margin: auto 60px auto 0;
+}
+.E-pic3{
+  width: 15%;
+  float: left;
+    margin: auto 60px auto 0;
+}
+.edu{
+  margin: 50px auto;
+}
+h4{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.row{
+width: 50%;
+text-align: left;
+margin: auto;
+}
+.name{
+  width: 90%;
+}
+.btn {
+  background: #050505;
+  background-image: -webkit-linear-gradient(top, #050505, #000000);
+  background-image: -moz-linear-gradient(top, #050505, #000000);
+  background-image: -ms-linear-gradient(top, #050505, #000000);
+  background-image: -o-linear-gradient(top, #050505, #000000);
+  background-image: linear-gradient(to bottom, #050505, #000000);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #717273;
+  background-image: -webkit-linear-gradient(top, #717273, #6c6e70);
+  background-image: -moz-linear-gradient(top, #717273, #6c6e70);
+  background-image: -ms-linear-gradient(top, #717273, #6c6e70);
+  background-image: -o-linear-gradient(top, #717273, #6c6e70);
+  background-image: linear-gradient(to bottom, #717273, #6c6e70);
+  text-decoration: none;
+}
+.contact{
+  margin: auto auto 40px auto;
+}
+.social-link{
+  background: #AAA9A7;
+  padding-top: 1%;
+  margin-top: 30px;
+}
+a{
+margin: auto 10px;
+text-decoration: none;
+font-size: 20px;
+}
+.im{
+color: black;
+margin-bottom: 0;
+padding: 10px;3margin-top: 30px;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 130%;
+
+}
